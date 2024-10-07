@@ -8,3 +8,20 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  background: white;  /* Set the background color to white */
+  line-height: 18px;  /* Set the line height for spacing */
+  color: black;       /* Set the text color */
+  padding: 10px;      /* Add some padding around the legend */
+  border: 2px solid gray;  /* Optional: add a border around the legend */
+  border-radius: 5px;  /* Optional: add rounded corners */
+  z-index: 999;       /* Ensure the legend appears above other elements */
+}
+
+.info.legend i {
+  width: 20px;        /* Set width of colored squares */
+  height: 20px;       /* Set height of colored squares */
+  display: inline-block;  /* Make squares display inline */
+  margin-right: 8px;  /* Add some space between squares and text */
+}
