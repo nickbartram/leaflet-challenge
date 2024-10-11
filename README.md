@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This challenge requires creating an earthquake visualization using USGS data. We'll be using `GEOjson` data to plot recent earthquake activity around the world. This challenge uses `JavaScript` and the ` Leaflet` library to create an interactive plot on an `OpenStreetMap` tile layer.
+This challenge requires creating an earthquake visualization using USGS data. We'll be using `GEOjson` data to plot recent earthquake activity around the world. This challenge uses `JavaScript` and the `Leaflet` library to create an interactive plot on an `OpenStreetMap` tile layer.
 
 ## Data
 
